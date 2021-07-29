@@ -1,0 +1,19 @@
+{
+  "name": "section-9",
+  "version": "14.17.0",
+  "description": "simple web app",
+  "main": "hi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamahm/Intro-to-Node.git"
+  },
+  "author": "Lama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamahm/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/lamahm/Intro-to-Node#readme"
+}
